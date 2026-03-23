@@ -1,46 +1,71 @@
-# Hi there, I'm Tamim Bro! 👋
-### Full Stack MERN Developer | DevOps Enthusiast | E-commerce Entrepreneur
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Tamim%20Bro&fontSize=80&animation=fadeIn&fontAlignY=35&theme=dark" width="100%" />
+</div>
 
-I am a passionate developer focused on building scalable web applications and high-end luxury retail experiences. Currently, I'm honing my skills in full-stack development and exploring the world of DevOps to streamline deployment pipelines.
-
----
-
-### 🚀 What I'm working on:
-- 🛒 **Luxury Retail Site:** Building a high-end e-commerce platform with a focus on premium branding.
-- 📱 **Creative Mobile App:** Developing a unique mobile application for the global market.
-- 🛠️ **DevOps Integration:** Automating workflows and managing system performance metrics.
+<div align="center">
+  <h1>🚀 Full Stack MERN & DevOps Specialist 🛠️</h1>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Building+Luxury+E-commerce+Sites;Expert+in+MERN+Stack;DevOps+Enthusiast;Future+Ready+Developer" alt="Typing SVG" />
+</div>
 
 ---
 
-### 🛠️ Tech Stack:
-
-**Frontend & Design:**
-- React.js, JavaScript (ES6+), CSS3, JSON
-- UI/UX Design & SVG Optimization
-- Digital Asset Creation (3D Modeling & Logo Design)
-
-**Backend & Database:**
-- Node.js, Express.js
-- MongoDB (MERN Stack Specialist)
-- Python (System Monitoring & Automation)
-
-**DevOps & Tools:**
-- Git & GitHub (Version Control)
-- System Performance Logging & Analytics
-- CI/CD Pipelines (Learning & Implementing)
+### 🌑 **About Me**
+Building the future of digital retail. I specialize in crafting high-end luxury platforms and scalable architectures. I love turning complex problems into elegant, 3D-inspired user experiences.
 
 ---
 
-### 📊 My GitHub Stats:
-![Tamim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamimbro0&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamimbro0&layout=compact&theme=dark)
+### ⚡ **Ultimate Tech Stack**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
 
 ---
 
-### 📫 How to reach me:
-- 📧 **Email:** consoletamim@gmail.com
-- 🌐 **Facebook:** [tamimbro0](https://facebook.com/tamimbro0)
-- 📍 **Based in:** Bangladesh
+### 📊 **Advanced Analytics & Stats**
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tamimbro0&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamimbro0&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tamimbro0&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
-*"Building the future, one commit at a time."*
+
+### 🌐 **Connect With Me**
+
+<div align="center">
+  <a href="mailto:consoletamim@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/tamimbro0">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tamimbro0/tamimbro0/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
