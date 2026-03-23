@@ -18,7 +18,7 @@
 
   <p>
     <a href="mailto:consoletamim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000?style=flat&logo=gmail&logoColor=D14836" /></a>
-    <a href="https://facebook.com/tamimbro0"><img src="https://img.shields.io/badge/-Facebook-000?style=flat&logo=facebook&logoColor=1877F2" /></a>
+    <a href="https://www.facebook.com/tamimbro00"><img src="https://img.shields.io/badge/-Facebook-000?style=flat&logo=facebook&logoColor=1877F2" /></a>
     <img src="https://img.shields.io/badge/STATUS-BUILDING_LUXURY_RETAIL-orange?style=flat-square" />
   </p>
   
